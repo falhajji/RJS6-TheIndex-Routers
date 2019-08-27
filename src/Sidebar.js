@@ -11,6 +11,9 @@ function Sidebar() {
       <section>
         <h4 className="menu-item">
           <NavLink to="/authors">AUTHORS</NavLink>
+          <p className="menu-item">
+            <NavLink to="/books">BOOKS</NavLink>
+          </p>
         </h4>
       </section>
     </div>
